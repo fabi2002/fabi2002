@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @fabi2002
 - 👀 I’m interested in Android Development and React
-- 🌱 I’m currently learning Kotlin & Jetpack Compose
+- 🌱 I’m currently learning Kotlin & Jetpack Compose and basics in SwiftUI
 
 <!---
 fabi2002/fabi2002 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
